@@ -1853,8 +1853,8 @@
         ],
         "rating": "15+",
         "summary": "공 조심하세요! 배우 이승기, 코미디언 이경규, 야구선수 이승엽. 세 사람이 각자의 팀을 승리로 이끌기 위해 필드에 나선다.",
-        "image_default": "./source/image/show/show_5_play072_B_14.png",
-        "image_poster": "./source/image/show/show_5_play072_P_14.png",
+        "image_default": "./source/image/show/show_5_play072_B_14.PNG",
+        "image_poster": "./source/image/show/show_5_play072_P_14.PNG",
         "video": "https://www.youtube.com/embed/a-8nb_Mdbu8?si=JjBR-aVuBdaee-fe&autoplay=1&mute=1&controls=0&loop=1&playlist=a-8nb_Mdbu8&vq=hd1080&enablejsapi=1"
 
     },
