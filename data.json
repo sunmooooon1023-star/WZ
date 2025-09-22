@@ -1522,7 +1522,7 @@
         ],
         "rating": "ALL",
         "summary": "스타들이 반려동물과 함께한 시간을 돌아보며, 코로나 팬데믹 속에서 더욱 깊어진 유대와 변화에 대해 진솔하게 대화를 나눈다.",
-        "image_default": "./source/image/show/show_2_Beauty_Andthe_Beast_B_02.png",
+        "image_default": "./source/image/show/show_2_Beauty_Andthe_Beast_B_02.PNG",
         "image_poster": "./source/image/show/show_2_Beauty_Andthe_Beast_P_02.png",
         "video": "https://www.youtube.com/embed/X-gcr5_G9Bo?si=7A-UM0IXPLdX5zOM&autoplay=1&mute=1&controls=0&loop=1&playlist=X-gcr5_G9Bo&vq=hd1080&enablejsapi=1"
 
@@ -1579,8 +1579,8 @@
         ],
         "rating": "15+",
         "summary": "차세대 트로트 킹은 누구? 트로트계의 남자 스타를 발굴하기 위한 프로젝트가 시작된다. 현직 가수부터 수학강사, 초등학생까지. 트로트에 살고 트로트에 죽는 100여팀의 참가자들. 1등이 되려면 연예인 심사 위원의 마음을 사로잡아라",
-        "image_default": "./source/image/show/show_12_MrTrote_B_04.png",
-        "image_poster": "./source/image/show/show_12_MrTrote_P_04.png",
+        "image_default": "./source/image/show/show_12_MrTrote_B_04.PNG",
+        "image_poster": "./source/image/show/show_12_MrTrote_P_04.PNG",
         "video": "https://www.youtube.com/embed/Ll7LWjTMp_o?si=rcmKYPGBKVcf3b8G&autoplay=1&mute=1&controls=0&loop=1&playlist=Ll7LWjTMp_o&vq=hd1080&enablejsapi=1"
 
     },
@@ -1611,7 +1611,7 @@
         "rating": "15+",
         "summary": "관계자 외 출입금지 구역에 들어가 문 너머의 세계를 엿본다. 세상에서 가장 베일에 싸인 그곳에서 어떤 일이 벌어지고 있는지 알아보는 시리즈.",
         "image_default": "./source/image/show/show_10_Authorized_Personnel_Only_B_05.png",
-        "image_poster": "./source/image/show/show_10_Authorized_Personnel_Only_P_05.png",
+        "image_poster": "./source/image/show/show_10_Authorized_Personnel_Only_P_05.PNG",
         "video": "https://www.youtube.com/embed/72_gFCfkCRU?si=9vZlFY3Ra02BNlcE&autoplay=1&mute=1&controls=0&loop=1&playlist=72_gFCfkCRU&vq=hd1080&enablejsapi=1"
 
     },
@@ -1637,7 +1637,7 @@
         ],
         "rating": "15+",
         "summary": "기안84와 친구들이 함께 떠나는 즉흥 여행. 정해진 계획은 없다. 발길 닿는 대로 무작정 여행지를 돌아다니며 그곳의 진정한 아름다움을 발견한다.",
-        "image_default": "./source/image/show/show_8_Around_the_world_since_I_was_born_B_06.png",
+        "image_default": "./source/image/show/show_8_Around_the_world_since_I_was_born_B_06.PNG",
         "image_poster": "./source/image/show/show_8_Around_the_world_since_I_was_born_P_06.png",
         "video": "https://www.youtube.com/embed/fHQCvmb_aVU?si=ZD2SM85sjhJPPWIc&autoplay=1&mute=1&controls=0&loop=1&playlist=fHQCvmb_aVU&vq=hd1080&enablejsapi=1"
 
@@ -1745,7 +1745,7 @@
         ],
         "rating": "15+",
         "summary": "삐걱거리는 결혼생활을 이어온 부부들이 가상 이혼에 합의한다. 솔직하고도 감성적인 사회 실험 리얼리티 시리즈",
-        "image_default": "./source/image/show/show_12_A_Divorce_Decision_B_10.png",
+        "image_default": "./source/image/show/show_12_A_Divorce_Decision_B_10.PNG",
         "image_poster": "./source/image/show/show_12_A_Divorce_Decision_P_10.png",
         "video": "https://www.youtube.com/embed/LJd7YQzoOCo?si=A6bUuPmBo5UHPPgk&autoplay=1&mute=1&controls=0&loop=1&playlist=LJd7YQzoOCo&vq=hd1080&enablejsapi=1"
 
@@ -1776,8 +1776,8 @@
         ],
         "rating": "15+",
         "summary": "명석한 경쟁자들의 두뇌 게임. 참가자들 가운데 두뇌를 풀가동하여 어마어마한 상금을 거머쥘 사람은 누구인가?",
-        "image_default": "./source/image/show/show_12_Devils_Plan_B_11.png",
-        "image_poster": "./source/image/show/show_12_Devils_Plan_P_11.png",
+        "image_default": "./source/image/show/show_12_Devils_Plan_B_11.PNG",
+        "image_poster": "./source/image/show/show_12_Devils_Plan_P_11.PNG",
         "video": "https://www.youtube.com/embed/lRyKEjuw7qo?si=n0393Feo7lgoaI3F&autoplay=1&mute=1&controls=0&loop=1&playlist=lRyKEjuw7qo&vq=hd1080&enablejsapi=1"
 
     },
@@ -1803,7 +1803,7 @@
         ],
         "rating": "15+",
         "summary": "아재 감성이 물씬 풍기는 출연진. 하지만 고등학생이라는 설정 하에 스타 전학생을 매주 맞이하여 순발력 넘치는 유머와 몸개그로 대결을 펼친다",
-        "image_default": "./source/image/show/show_8_Knowing_bros_B_12.png",
+        "image_default": "./source/image/show/show_8_Knowing_bros_B_12.PNG",
         "image_poster": "./source/image/show/show_8_Knowing_bros_P_12.png",
         "video": "https://www.youtube.com/embed/IbTjm3HOSLY?si=Kdt51SijDo0veSvD&autoplay=1&mute=1&controls=0&loop=1&playlist=IbTjm3HOSLY&vq=hd1080&enablejsapi=1"
 
@@ -1831,7 +1831,7 @@
         "rating": "15+",
         "summary": "바리바리 이야기보따리 싸 들고, 장도연과 나들이를 훌쩍 떠난다. 보고싶은 것, 먹고싶은 것, 마음맞는 사람만 있으면 언제든 오케이. 지금 바로 출발!",
         "image_default": "./source/image/show/show_8_Jangdo_Baribari_B_13.png",
-        "image_poster": "./source/image/show/show_8_Jangdo_Baribari_P_13.png",
+        "image_poster": "./source/image/show/show_8_Jangdo_Baribari_P_13.PNG",
         "video": "https://www.youtube.com/embed/cNEWCPMWkyY?si=HSDnEbeLc8CUn8oC&autoplay=1&mute=1&controls=0&loop=1&playlist=cNEWCPMWkyY&vq=hd1080&enablejsapi=1"
     },
     {
@@ -1876,8 +1876,8 @@
         ],
         "rating": "15+",
         "summary": "몸과 마음을 함께 치유해 주는 체험 마사지. 그런 마사지를 더욱 깊이 있게 알기 위해, 셀럽들이 다섯 나라를 여행하며 각국의 마사지 문화와 효력을 직접 경험한다.",
-        "image_default": "./source/image/show/show_4_Massage_Load_B_15.png",
-        "image_poster": "./source/image/show/show_4_Massage_Load_P_15.png",
+        "image_default": "./source/image/show/show_4_Massage_Load_B_15.PNG",
+        "image_poster": "./source/image/show/show_4_Massage_Load_P_15.PNG",
         "video": "https://www.youtube.com/embed/iiWtagcqnoI?si=K0TMoqdspbRegJ6K&autoplay=1&mute=1&controls=0&loop=1&playlist=iiWtagcqnoI&vq=hd1080&enablejsapi=1"
 
     },
@@ -1905,8 +1905,8 @@
         ],
         "rating": "15+",
         "summary": "확실하게 웃겨주는 식도락가들. 끝내주게 맛있는 먹거리들. 전국의 맛집이여 기다려라, 숟가락까지 삼킬 듯한 먹성의 코미디언들이 간다! 보기만 해도 침샘이 폭발하는 먹방 시리즈.",
-        "image_default": "./source/image/show/show_10_Tasty_Guys_B_16.png",
-        "image_poster": "./source/image/show/show_10_Tasty_Guys_P_16.png",
+        "image_default": "./source/image/show/show_10_Tasty_Guys_B_16.PNG",
+        "image_poster": "./source/image/show/show_10_Tasty_Guys_P_16.PNG",
         "video": "https://www.youtube.com/embed/tI0JSjELgVc?si=k1sfV2jqG5R9MW6A&autoplay=1&mute=1&controls=0&loop=1&playlist=tI0JSjELgVc&vq=hd1080&enablejsapi=1"
 
     },
@@ -1928,8 +1928,8 @@
         ],
         "rating": "ALL",
         "summary": "국내 굴지의 로펌에 입사한 정의감 넘치는 신입 변호사. 냉정하고 까칠한 상사 밑에서 복잡한 법조계를 헤쳐 나간다.",
-        "image_default": "./source/image/dra/dra_12_Esquire_B_01.png",
-        "image_poster": "./source/image/dra/dra_12_Esquire_P_01.png",
+        "image_default": "./source/image/dra/dra_12_Esquire_B_01.PNG",
+        "image_poster": "./source/image/dra/dra_12_Esquire_P_01.PNG",
         "video": "https://www.youtube.com/embed/vW-BXPkTg7o?si=s1qEfCuoG-IYZMmb&autoplay=1&mute=1&controls=0&loop=1&playlist=vW-BXPkTg7o&vq=hd1080&enablejsapi=1"
 
     },
@@ -1957,7 +1957,7 @@
         ],
         "rating": "ALL",
         "summary": "\"당차고 요망진 소녀와 무쇠처럼 우직하고 단단한 소년. 제주 바닷가 작은 마을에서 한 뼘씩 자라온 둘의 인생은 어디로 향할까. 넘어지고 좌절해도 다시 일어서며, 세월을 뛰어넘어 피어나는 사랑 이야기.",
-        "image_default": "./source/image/dra/dra_10_When_Life_Gives_You_Tangerines_B_02.png",
+        "image_default": "./source/image/dra/dra_10_When_Life_Gives_You_Tangerines_B_02.PNG",
         "image_poster": "./source/image/dra/dra_10_When_Life_Gives_You_Tangerines_P_02.png",
         "video": "https://www.youtube.com/embed/hYqE_mlPeHc?si=kU1kxB1j8SvZFzTi&autoplay=1&mute=1&controls=0&loop=1&playlist=hYqE_mlPeHc&vq=hd1080&enablejsapi=1"
 
@@ -1988,8 +1988,8 @@
         ],
         "rating": "ALL",
         "summary": "1,000년을 거슬러 고려 시대로 시간 여행을 하게 된 21세기 여인. 궁중의 암투에 휘말리고 여러 황자들의 사랑을 한몸에 받게 된다.",
-        "image_default": "./source/image/dra/dra_12_Moon_Lovers_B_03.png",
-        "image_poster": "./source/image/dra/dra_12_Moon_Lovers_P_03.png",
+        "image_default": "./source/image/dra/dra_12_Moon_Lovers_B_03.PNG",
+        "image_poster": "./source/image/dra/dra_12_Moon_Lovers_P_03.PNG",
         "video": "https://www.youtube.com/embed/uJwVyV9BM5w?si=gmJq-Wz66F8oFzoT&autoplay=1&mute=1&controls=0&loop=1&playlist=uJwVyV9BM5w&vq=hd1080&enablejsapi=1"
 
     },
@@ -2019,8 +2019,8 @@
         ],
         "rating": "ALL",
         "summary": "1871년 신미양요 직후 미국으로 건너갔던 소년. 격변하는 역사 속에서 고국으로 돌아와, 사대부의 귀한 따님을 가슴에 품는다.",
-        "image_default": "./source/image/dra/dra_12_Mr_Sunshine_B_04.png",
-        "image_poster": "./source/image/dra/dra_12_Mr_Sunshine_P_04.png",
+        "image_default": "./source/image/dra/dra_12_Mr_Sunshine_B_04.PNG",
+        "image_poster": "./source/image/dra/dra_12_Mr_Sunshine_P_04.PNG",
         "video": "https://www.youtube.com/embed/-sHaszIAyLE?si=h4rbrbmztUqafuYq&autoplay=1&mute=1&controls=0&loop=1&playlist=-sHaszIAyLE&vq=hd1080&enablejsapi=1"
 
     },
@@ -2050,7 +2050,7 @@
         ],
         "rating": "ALL",
         "summary": "트리플 보드를 달성한 괴짜 천재 외과 의사. 서울의 유명 병원을 떠나 지방의 초라한 병원에서 젊은 의사들을 가르친다.",
-        "image_default": "./source/image/dra/dra_12_Dr_Romantic_B_05.png",
+        "image_default": "./source/image/dra/dra_12_Dr_Romantic_B_05.PNG",
         "image_poster": "./source/image/dra/dra_12_Dr_Romantic_P_05.png",
         "video": "https://www.youtube.com/embed/l4V6VOFOBJ0?si=FhIPbW1MoOEiWKdj&autoplay=1&mute=1&controls=0&loop=1&playlist=l4V6VOFOBJ0&vq=hd1080&enablejsapi=1"
 
@@ -2079,8 +2079,8 @@
         ],
         "rating": "ALL",
         "summary": "조선의 왕세자가 살수의 습격으로 기억을 잃고 평민으로 전락한다. 문무를 겸비했으면 무얼 하나. 민가에선 그저 무용한 남정네일 뿐. 게다가 반전은 여기서 끝이 아니었으니. 고을 최고령 노처녀와 강제 혼인까지 해 버렸다!",
-        "image_default": "./source/image/dra/dra_12_Miserable_Heart_B_06.png",
-        "image_poster": "./source/image/dra/dra_12_Miserable_Heart_P_06.png",
+        "image_default": "./source/image/dra/dra_12_Miserable_Heart_B_06.PNG",
+        "image_poster": "./source/image/dra/dra_12_Miserable_Heart_P_06.PNG",
         "video": "https://www.youtube.com/embed/IFZfNGps9Fw?si=Bqa0RZI8yh9q1jhZ&autoplay=1&mute=1&controls=0&loop=1&playlist=IFZfNGps9Fw&vq=hd1080&enablejsapi=1"
 
     },
@@ -2108,8 +2108,8 @@
         ],
         "rating": "ALL",
         "summary": "상류층 자녀들이 다니는 명문고에서 살인사건이 발생한다. 사건을 목격한, 넉넉지 않은 형편의 여학생. 입을 다무는 대가로 이 학교에 입학할 기회를 얻는데.",
-        "image_default": "./source/image/dra/dra_10_BITCHxRICH_B_07.png",
-        "image_poster": "./source/image/dra/dra_10_BITCHxRICH_P_07.png",
+        "image_default": "./source/image/dra/dra_10_BITCHxRICH_B_07.PNG",
+        "image_poster": "./source/image/dra/dra_10_BITCHxRICH_P_07.PNG",
         "video": "https://www.youtube.com/embed/t7BIQ_OBh6c?si=_wid8pJyjUYAn_1w&autoplay=1&mute=1&controls=0&loop=1&playlist=t7BIQ_OBh6c&vq=hd1080&enablejsapi=1"
 
     },
@@ -2137,8 +2137,8 @@
         ],
         "rating": "ALL",
         "summary": "노비의 삶을 벗어나기 위해 신분을 속여야 하는 젊은 여인. 그런데 한 떠돌이 이야기꾼이 여인을 향해 연정을 고백하면서 문제가 복잡해지기 시작한다.",
-        "image_default": "./source/image/dra/dra_10_The_Tale_of_Lady_Ok_B_08.png",
-        "image_poster": "./source/image/dra/dra_10_The_Tale_of_Lady_Ok_P_08.png",
+        "image_default": "./source/image/dra/dra_10_The_Tale_of_Lady_Ok_B_08.PNG",
+        "image_poster": "./source/image/dra/dra_10_The_Tale_of_Lady_Ok_P_08.PNG",
         "video": "https://www.youtube.com/embed/2VhC3XppybA?si=934564M3jE-h6rui&autoplay=1&mute=1&controls=0&loop=1&playlist=2VhC3XppybA&vq=hd1080&enablejsapi=1"
 
     },
