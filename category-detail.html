@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="./css/sub_index.css">
+    <link rel="stylesheet" href="./css/category-detail.css">
+    <link rel="stylesheet" href="./css/layout.css">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
+    <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+    <script src="./js/category-detail.js" defer></script>
+</head>
+
+<body>
+    <div class="category-detail-wrapper">
+        <header id="mainHeader" class="main-header-container">
+            <div class="logo-box">
+                <h1 class="logo">
+                    <a href="index.html">
+                        <span>WZ</span>
+                    </a>
+                </h1>
+            </div>
+            <ul class="nav-list">
+                <li class="nav-item">
+                    <a href="category-detail.html?movie">카테고리</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#">커뮤니티</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#">스토어</a>
+                </li>
+            </ul>
+            <div class="util-box">
+                <form id="searchForm" action="/index.html" method="get" class="search-box">
+                    <label for="mainSearch">검색</label>
+                    <input id="mainSearch" class="search-input" name="query" type="text" placeholder="검색어를 입력하세요" />
+                    <button class="search-btn" type="submit"><span class="hidden">검색</span></button>
+                </form>
+                <div class="account-box">
+                    <span class="user-name">user</span>
+                    <span class="user-profile">
+                        <img src="./source/image/profile.jpg" alt="profile" />
+                    </span>
+                    <div class="account-hover-box">
+                        <div class="hover-box-upper">
+                            <img src="./source/image/profile.jpg" alt="profile" />
+                            <span>userName</span>
+                        </div>
+                        <div class="hover-box-nav">
+                            <ul>
+                                <li><a href="#">프로필관리</a></li>
+                                <li><a href="#">구매내역 관리</a></li>
+                                <li><a href="#">관심 콘텐츠 목록</a></li>
+                            </ul>
+                        </div>
+                        <div class="logout">
+                            <span>로그아웃</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <div class="category-detail-main-visual">
+            <div class="overlay-text">
+                <span class="category-detail-main-visual-title">
+                    <!-- 동적 렌더링 -->
+                </span>
+                <span class="category-detail-main-visual-text">
+                    <!-- 동적 렌더링 -->
+                </span>
+            </div>
+        </div>
+        <div class="category-detail-container">
+            <section class="category-detail-content-box-rank">
+                <div class="swiper reels-swiper">
+                    <div class="swiper-button-prev">
+                        <img src="source/image/cateagory-detail/left.png" alt="">
+                    </div>
+                    <div class="swiper-button-next">
+                        <img src="source/image/cateagory-detail/right.png" alt="">
+                    </div>
+                    <div class="swiper-wrapper">
+                        <!-- 스와이퍼 동적 렌더링 -->
+                    </div>
+                </div>
+            </section>
+            <section class="category-detail-content-box-recommend">
+                <div class="recommend01">
+                    <h3>이번주 추천작 리스트</h3>
+                    <div class="recommendImg01">
+                        <!-- img 동적 렌더링 -->
+                    </div>
+                    <div class="button">
+                        <img src="source/image/cateagory-detail/down.png" alt="">
+                        <!-- click 이벤트 구현 -->
+                    </div>
+                </div>
+                <div class="recommend02">
+                    <h3>숨은 명작 리스트</h3>
+                    <div class="recommendImg02">
+                        <!-- img 동적 렌더링 -->
+                    </div>
+                    <div class="button">
+                        <img src="source/image/cateagory-detail/down.png" alt="">
+                        <!-- click 이벤트 구현 -->
+                    </div>
+                </div>
+            </section>
+        </div>
+        <div class="fixed">
+            <span>유형별</span>
+            <div class="menu">
+                <a href="category-detail.html?movie">
+                    <p>영화</p>
+                </a>
+                <a href="category-detail.html?drama">
+                    <p>드라마</p>
+                </a>
+                <a href="category-detail.html?musical">
+                    <p>뮤지컬</p>
+                </a>
+                <a href="category-detail.html?documentary">
+                    <p>다큐멘터리</p>
+                </a>
+                <a href="category-detail.html?varietyShow">
+                    <p>예능</p>
+                </a>
+                <a href="category-detail.html?animation">
+                    <p>애니메이션</p>
+                </a>
+            </div>
+        </div>
+
+    </div>
+</body>
+
+</html>
